@@ -1,2 +1,5 @@
 # TheDOM
-Developing a web site portfolio using HTML, CSS and JS
+Developing a web site portfolio using: 
+## - HTML, 
+## - CSS,
+## - JavaScript
